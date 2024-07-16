@@ -25,9 +25,10 @@ _This analysis will be divided into the following sections_:
 
 1. **Exploratory_Data_Analysis_and_Visualization**:
    
-## Questions:
+ ***Questions***:
 
-- Drop-off stages: Analyze at which stage users are dropping off the most, e.g. profile setup, tutorial completion, firt action taken etc.. This analysis is done through calculation of completion rates of each stage.
+- Drop-off stages: Analyze at which stage users are dropping off the most, e.g. profile setup, tutorial completion, firt action taken etc.. This analysis 
+  is done through calculation of completion rates of each stage.
 
 - User stuck points: Identify steps where users are starting but not completing, e.g. email verification, completed tutorials, feature intros.
 
