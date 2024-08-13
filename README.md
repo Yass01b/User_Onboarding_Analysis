@@ -3,6 +3,8 @@
 ## Overview
 This analysis is focused on understanding the user onboarding process of a SaaS platform similar to Zoom. However, it is important to note that the dataset used for this analysis is fictional and does not represent actual user data from real-world SaaS platform. The variables and their definitions are meant to serve as an example of the type of user-level data that a SaaS company might track to understand its users' onboarding lifecycle and engagement.
 
+![5 Stage The Elevator Pitch Diagram Infographic Brainstorm](https://github.com/user-attachments/assets/3f962bab-e062-4e68-9105-9c6f03be8ac5)
+
 Since this is a hypothetical scenario, the data used in this analysis is dummy data, not real user data. The purpose is to demonstrate the types of insights that can be derived from such a comprehensive user dataset, rather than to present findings about a specific real-world SaaS platform.
 
 The key objectives of this analysis are:
